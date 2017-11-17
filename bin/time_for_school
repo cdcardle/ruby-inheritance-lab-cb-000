@@ -22,3 +22,11 @@ jim.first_name = "Jim"
 jim.last_name = "Brown"
 
 puts steve.knowledge
+puts steve.knowledge
+puts steve.knowledge
+puts steve.knowledge
+puts steve.knowledge
+puts steve.knowledge
+puts steve.knowledge
+puts steve.knowledge
+puts steve.knowledge
